@@ -101,22 +101,4 @@ const anush = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anush-Prabhu&theme=github_dark&utcOffset=-4" alt="Productive time" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anush-Prabhu&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-### 🔗 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/anush-prabhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:anushprabhu4@gmail.com"><img src="https://img.shields.io/badge/Email_me-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-</p>
-
-<p align="center">
-  <i>Built with patterns from <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">awesome-github-profile-readme</a></i>
-</p>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=100&section=footer)
