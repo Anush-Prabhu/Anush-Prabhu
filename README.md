@@ -1,6 +1,7 @@
 <!--
   Inspired by https://github.com/abhisheknaiidu/awesome-github-profile-readme
-  Style blend: Code Mode + Badges + Dynamic stats
+  Style: Code Mode + Badges + working stats mirrors
+  Note: github-readme-stats.vercel.app is currently 503 — using summary-cards + streak-stats
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=180&section=header&text=Anush%20Prabhu&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Security%20Engineering%20%7C%20Applied%20AI%20%2F%20RAG%20%7C%20Automation&descAlignY=55&descSize=14)
@@ -12,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anush-prabhu"><img src="https://img.shields.io/badge/LinkedIn-anush--prabhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anushprabhu4@gmail.com"><img src="https://img.shields.io/badge/Email-anushprabhu4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Anush-Prabhu"><img src="https://img.shields.io/github/followers/Anush-Prabhu?label=Follow&style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/anush-prabhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anushprabhu4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Anush-Prabhu"><img src="https://img.shields.io/github/followers/Anush-Prabhu?label=GitHub&style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 
 ---
@@ -61,54 +62,29 @@ const anush = {
 
 ### 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/Anush-Prabhu/Formidable-List-View-WP-Plugin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anush-Prabhu&repo=Formidable-List-View-WP-Plugin&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Anush-Prabhu/The-Unofficial-Guide-RAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anush-Prabhu&repo=The-Unofficial-Guide-RAG&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Anush-Prabhu/Provenance-Guard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anush-Prabhu&repo=Provenance-Guard&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Anush-Prabhu/Anush-Prabhu-Cisco-ASA-FTD-Anomaly-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anush-Prabhu&repo=Anush-Prabhu-Cisco-ASA-FTD-Anomaly-Detection&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Anush-Prabhu/TakeMeter-Fine-Tuning-Starter-Notebook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anush-Prabhu&repo=TakeMeter-Fine-Tuning-Starter-Notebook&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Anush-Prabhu/ICS-Shield">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anush-Prabhu&repo=ICS-Shield&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-| Project | One-liner |
-| --- | --- |
-| [Formidable List View](https://github.com/Anush-Prabhu/Formidable-List-View-WP-Plugin) | Hierarchical Formidable Forms builder UX — search, collapse, drag-reorder, inline edit |
-| [Unofficial Guide RAG](https://github.com/Anush-Prabhu/The-Unofficial-Guide-RAG) | Guardrailed RAG with grounded retrieval + safe fallbacks for privacy-sensitive content |
-| [Provenance-Guard](https://github.com/Anush-Prabhu/Provenance-Guard) | Provenance / authenticity controls for security-aware AI workflows |
-| [Cisco ASA/FTD Scanner](https://github.com/Anush-Prabhu/Anush-Prabhu-Cisco-ASA-FTD-Anomaly-Detection) | Signature + anomaly heuristics for SOC detection-engineering triage |
-| [TakeMeter Fine-Tune](https://github.com/Anush-Prabhu/TakeMeter-Fine-Tuning-Starter-Notebook) | DistilBERT on cybersecurity comments vs Llama 3.3 70B zero-shot |
-| [ICS-Shield](https://github.com/Anush-Prabhu/ICS-Shield) | ICS-themed tower defense with compromise operations logging |
+| Project | Stack | One-liner |
+| --- | --- | --- |
+| [Formidable List View](https://github.com/Anush-Prabhu/Formidable-List-View-WP-Plugin) | JS · PHP · WP | Hierarchical Formidable Forms builder UX — search, collapse, drag-reorder, inline edit |
+| [Unofficial Guide RAG](https://github.com/Anush-Prabhu/The-Unofficial-Guide-RAG) | Python · RAG | Guardrailed RAG with grounded retrieval + safe fallbacks for privacy-sensitive content |
+| [Provenance-Guard](https://github.com/Anush-Prabhu/Provenance-Guard) | Python | Provenance / authenticity controls for security-aware AI workflows |
+| [Cisco ASA/FTD Scanner](https://github.com/Anush-Prabhu/Anush-Prabhu-Cisco-ASA-FTD-Anomaly-Detection) | Python · Jupyter | Signature + anomaly heuristics for SOC detection-engineering triage |
+| [TakeMeter Fine-Tune](https://github.com/Anush-Prabhu/TakeMeter-Fine-Tuning-Starter-Notebook) | Python · NLP | DistilBERT on cybersecurity comments vs Llama 3.3 70B zero-shot |
+| [ICS-Shield](https://github.com/Anush-Prabhu/ICS-Shield) | Python · Pygame | ICS-themed tower defense with compromise operations logging |
 
 ---
 
 ### 🛠️ Languages & tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,bash,powershell,linux,azure,gcp,postgres,neo4j,wordpress,git,githubactions,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,bash,powershell,linux,azure,gcp,postgres,wordpress,git,githubactions,postman&theme=dark" alt="Skill icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Detection_Engineering-238636?style=flat-square" />
-  <img src="https://img.shields.io/badge/SIEM-Splunk%20%7C%20Wazuh-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/IAM-AD%20%7C%20Kerberos%20%7C%20gMSA-A371F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG%20%7C%20Guardrails-F78166?style=flat-square" />
-  <img src="https://img.shields.io/badge/NIST%20%7C%20HIPAA%20%7C%20SOC2%20%7C%20GDPR-6E7681?style=flat-square" />
+  <img src="https://img.shields.io/badge/Detection_Engineering-238636?style=flat-square" alt="Detection Engineering" />
+  <img src="https://img.shields.io/badge/SIEM-Splunk%20%7C%20Wazuh-1F6FEB?style=flat-square" alt="SIEM" />
+  <img src="https://img.shields.io/badge/IAM-AD%20%7C%20Kerberos%20%7C%20gMSA-A371F7?style=flat-square" alt="IAM" />
+  <img src="https://img.shields.io/badge/RAG%20%7C%20Guardrails-F78166?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/NIST%20%7C%20HIPAA%20%7C%20SOC2%20%7C%20GDPR-6E7681?style=flat-square" alt="Compliance" />
 </p>
 
 ---
@@ -116,16 +92,21 @@ const anush = {
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anush-Prabhu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anush-Prabhu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anush-Prabhu&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anush-Prabhu&theme=github_dark" alt="Repos per language" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anush-Prabhu&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anush-Prabhu&theme=github_dark" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anush-Prabhu&theme=github_dark&utcOffset=-4" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anush-Prabhu&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+  <img src="https://streak-stats.demolab.com/?user=Anush-Prabhu&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Anush-Prabhu?cardType=level&theme=github&preferLogin=Anush-Prabhu" alt="GitHub level stats" height="160" />
 </p>
 
 ---
@@ -133,8 +114,9 @@ const anush = {
 ### 🔗 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/anush-prabhu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anushprabhu4@gmail.com"><img src="https://img.shields.io/badge/Hire%20%2F%20Collab-Email%20me-238636?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/anush-prabhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:anushprabhu4@gmail.com"><img src="https://img.shields.io/badge/Email_me-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
 </p>
 
 <p align="center">
