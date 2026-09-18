@@ -105,10 +105,6 @@ const anush = {
   <img src="https://streak-stats.demolab.com/?user=Anush-Prabhu&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Anush-Prabhu?cardType=level&theme=github&preferLogin=Anush-Prabhu" alt="GitHub level stats" height="160" />
-</p>
-
 ---
 
 ### 🔗 Connect
